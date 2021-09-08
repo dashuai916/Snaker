@@ -9,4 +9,6 @@
 
 [下载链接](https://github.com/dashuai916/Snaker/releases) 👈👀
 
+操控方法：w/s/a/d --> 上下左右 🚀
+
 Have Fun！😋
