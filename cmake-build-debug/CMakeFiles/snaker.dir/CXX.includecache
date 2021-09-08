@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Include/Food.h
+cstdlib
+../Include/cstdlib
+ctime
+../Include/ctime
+Wall.h
+../Include/Wall.h
+
+../Include/Wall.h
+array
+../Include/array
+iostream
+../Include/iostream
+
+G:/CPP/snaker/Src/Food.cpp
+Food.h
+G:/CPP/snaker/Src/Food.h
+
